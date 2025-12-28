@@ -112,7 +112,7 @@ Keterangan:
 ### Akun Testing (Demo)
 Untuk mempermudah pengujian aplikasi tanpa harus registrasi, Anda dapat menggunakan akun berikut:
 - Email: `admin@gmail.com`
-- Password: `admin1234`
+- Password: `admin123`
 
 Catatan: Atau dapat juga mendaftarkan akun baru melalui halaman Register.
 
