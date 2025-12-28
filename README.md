@@ -103,7 +103,7 @@ Keterangan:
 ---
 
 ### Link Demo
-**Frontend (Netlify)**: https://uas-backend-kel2.netlify.app/
+**Frontend (Netlify)**: https://uas-backend-kelompok2.netlify.app/
 
 **Backend (Railway)**: https://uas-buku-resep-production.up.railway.app/
 
