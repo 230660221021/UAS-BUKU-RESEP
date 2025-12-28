@@ -19,7 +19,7 @@ const Dashboard = ({ onLogout }) => {
 
     const user = JSON.parse(localStorage.getItem('user'));
     const token = localStorage.getItem('token');
-    const API = 'http://localhost:3000/api/recipes';
+    const API = 'http://uas-buku-resep-production.up.railway.app/api/recipes';
     const config = { headers: { Authorization: `Bearer ${token}` } };
 
     const fetchRecipes = async () => {

@@ -11,8 +11,8 @@ const Login = ({ onLogin }) => {
         e.preventDefault();
         try {
             const endpoint = isRegister 
-                ? 'http://localhost:3000/api/auth/register' 
-                : 'http://localhost:3000/api/auth/login';
+                ? 'http://uas-buku-resep-production.up.railway.app/api/auth/register' 
+                : 'http://uas-buku-resep-production.up.railway.app/api/auth/login';
             
             const payload = isRegister ? { name, email, password } : { email, password };
             const res = await axios.post(endpoint, payload);
