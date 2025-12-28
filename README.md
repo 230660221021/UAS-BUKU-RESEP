@@ -103,9 +103,9 @@ Keterangan:
 ---
 
 ### Link Demo
-**Frontend (Netlify)**: [Paste Link Netlify Kamu Di Sini]
+**Frontend (Netlify)**: https://uas-backend-kel2.netlify.app/
 
-**Backend (Railway)**: [Paste Link Railway Kamu Di Sini]
+**Backend (Railway)**: https://uas-buku-resep-production.up.railway.app/
 
 ---
 
